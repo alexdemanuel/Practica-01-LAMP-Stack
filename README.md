@@ -1,6 +1,7 @@
 # Practica-01-LAMP-Stack
 
 # Instalamos composer
+<!-- añado texto de prueba-->
 
 ```
  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" 
@@ -160,3 +161,5 @@ sudo nano /etc/apache2/sites-enabled/000-default.conf
 ```
 sudo /etc/init.d/apache2 restart
 ```
+
+
