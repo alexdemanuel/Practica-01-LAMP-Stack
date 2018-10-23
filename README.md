@@ -1,7 +1,7 @@
 # Practica-01-LAMP-Stack
 
 # Instalamos composer
-<!-- añado texto de prueba-->
+
 
 ```
  php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" 
